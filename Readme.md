@@ -1,6 +1,6 @@
 ## Тестовое задание для Кокос группы
 
-[Демо проекта](https://nivaiz.github.io/proccesing24/build/index.html)
+[Демо проекта](https://nivaiz.github.io/kokoc-group/build/index.html)
 
 Вёрстка: [Илья Галятдинов](https://github.com/NivaiZ/)
 
