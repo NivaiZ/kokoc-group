@@ -3,7 +3,6 @@ async function getPost() {
   const responce = await fetch("https://dev.mykgproxy.webprofy.ru/upload/frontend/data.json");
   const content = await responce.json();
 
-  let key
   for (const key in content) {
     list.innerHTML += `
     <li class="card-block__item">
@@ -28,7 +27,6 @@ async function getPost() {
             </div>
           </li>
     `
-    content[key]
   }
 
   function changeButtonHandler() {
